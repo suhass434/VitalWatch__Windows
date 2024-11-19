@@ -1,0 +1,8 @@
+PyQt5
+PyQtChart
+PyYAML
+psutil
+
+#windows
+wmi
+pywin32
